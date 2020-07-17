@@ -1,0 +1,14 @@
+#headerWrapper{
+  position: relative;
+  padding: 0;
+  margin: 0;
+  overflow:hidden;
+  height: 500px;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: 700px;
+  background-position: right;
+  background-attachment: fixed;
+  filter: blur(10px);
+  -webkit-filter: blur(10px);
+}
